@@ -2,3 +2,6 @@
 /gainloss/data
 */gdax_conf.yaml
 .idea/*
+gainloss/lib/*gi
+*/pip-selfcheck.json
+git
